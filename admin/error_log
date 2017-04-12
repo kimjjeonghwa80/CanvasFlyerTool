@@ -1,0 +1,4 @@
+[04-Aug-2016 08:12:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7083080 bytes) in /home/localeca/public_html/NewHTML5CanvasFlyerTool/admin/tcpdf/tcpdf.php on line 20668
+[06-Aug-2016 14:11:40 GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/localeca/public_html/NewHTML5CanvasFlyerTool/admin/get_uploadimages.php on line 5
+[06-Aug-2016 14:13:05 GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/localeca/public_html/NewHTML5CanvasFlyerTool/admin/get_uploadimages.php on line 5
+[06-Aug-2016 14:15:25 GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/localeca/public_html/NewHTML5CanvasFlyerTool/admin/get_uploadimages.php on line 5
